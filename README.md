@@ -1,2 +1,2 @@
 # Notepad
- : Basit bir Notepad uygulaması
+  Basit bir Notepad uygulaması
