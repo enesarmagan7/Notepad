@@ -18,7 +18,7 @@ public class Notepad {
             //Notepad uygulamasını bir menü içinde tasarlamak için while döngüsü kullanıyoruz.
             //Boolean değişkenimiz true olduğu sürece döngü devam eder.
 
-            System.out.println("1- Dosyaya veri yaz.\n2- Dosyadan veri oku.\n\nÇıkış için herhangi bir tuşa basın.\n");
+            System.out.println("1- Dosyaya veri yaz.\n2- Dosyadan veri oku.\n\nÇıkış için 1 ve 2 hariç bir sayı girin.\n");
             System.out.println("Lütfen bir seçim yapınız.");
             int choice = scanner.nextInt();
             switch (choice) {                     //Switch-case menü yapısı
